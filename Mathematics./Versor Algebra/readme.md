@@ -1,0 +1,1 @@
+- [Decoding Eric Dollard Versor Algebra](https://youtu.be/F8M3yu_nb-E)
